@@ -1,34 +1,29 @@
-# Website Bản Tèn – Khám phá vẻ đẹp vùng cao
+# Bản Tèn – Khám phá vẻ đẹp vùng cao (phiên bản 3.0)
 
-## Chạy thử trên máy tính
-1. Giải nén thư mục.
-2. Mở `index.html` bằng Chrome, Edge hoặc Firefox.
-3. Website dùng Google Fonts, ảnh minh họa và thư viện QR từ CDN nên cần Internet để hiển thị đầy đủ.
+## Cấu trúc
+- index.html
+- style.css
+- script.js
 
-## Đưa website lên Internet bằng GitHub Pages (miễn phí)
-1. Đăng nhập hoặc tạo tài khoản tại https://github.com/.
-2. Tạo repository mới, ví dụ `ban-ten-du-lich`, chọn Public.
-3. Tải lên các file `index.html`, `style.css`, `script.js` (có thể tải cả thư mục `assets` nếu bổ sung ảnh).
-4. Vào **Settings → Pages**.
-5. Trong **Build and deployment**, chọn **Deploy from a branch**.
-6. Chọn branch **main**, thư mục **/(root)** rồi nhấn **Save**.
-7. Chờ GitHub Pages triển khai; địa chỉ thường có dạng `https://TEN-TAI-KHOAN.github.io/ban-ten-du-lich/`.
-8. Mở link trên điện thoại để kiểm tra.
+## Đưa lên GitHub Pages
+1. Giải nén ZIP.
+2. Mở repository `ban-ten-du-lich`.
+3. Chọn Add file → Upload files.
+4. Tải 3 file trên vào thư mục gốc, ghi đè phiên bản cũ.
+5. Commit changes.
+6. Settings → Pages: Deploy from a branch, `main`, `/(root)`.
+7. Chờ Actions hoàn tất rồi mở:
+   https://mrkhanhskk.github.io/ban-ten-du-lich/
 
-## Tạo mã QR
-1. Mở website đã xuất bản.
-2. Cuộn xuống phần “Một lần quét, mở ra hành trình”.
-3. Mã QR được tạo tự động theo đường dẫn website đã cài sẵn ở cuối trang. Có thể cập nhật URL nếu thay đổi địa chỉ và nhấn “Cập nhật mã QR”.
-5. Quét thử bằng ít nhất hai điện thoại/trình quét khác nhau trước khi in.
-6. Có thể chụp màn hình mã QR hoặc dùng công cụ tạo QR để tải PNG/SVG chất lượng cao. Không thay đổi URL sau khi đã in mã.
+## Bản đồ và mã QR
+- Google Maps dùng truy vấn địa danh “Bản Tèn, Văn Lăng, Thái Nguyên”; cần kiểm tra điểm ghim thực tế và điều chỉnh nếu Google Maps trả nhiều kết quả.
+- QR được tạo theo URL GitHub Pages trong `script.js`. Nếu đổi tên tài khoản/repository hoặc domain, sửa biến `siteUrl`.
+- Nút “Tải mã QR (PNG)” tải ảnh QR. Cần quét thử trên điện thoại trước khi in.
 
-## Việc nhóm nghiên cứu cần hoàn thiện trước khi công bố
-- Thay ảnh minh họa bằng ảnh tự chụp/được cho phép sử dụng tại Bản Tèn.
-- Xác minh thông tin địa danh, đường đi, tọa độ và các điểm tham quan với người dân/đại diện địa phương.
-- Bổ sung tên món ăn, phong tục, câu chuyện văn hóa sau khi phỏng vấn và được người cung cấp xác nhận.
-- Xin phép trước khi đăng ảnh chân dung, nhà ở, nghi lễ hoặc thông tin cá nhân.
-- Thêm thông tin nhóm thực hiện, trường, giáo viên hướng dẫn, nguồn tư liệu và ngày cập nhật.
-- Kiểm tra website trên điện thoại, tốc độ tải và mọi liên kết trước khi in QR.
+## Ảnh và ghi nguồn
+Ảnh hiển thị trên website là ảnh tư liệu được ghi nhận về Bản Tèn từ:
+- Báo Tin tức/TTXVN: bài “Thái Nguyên: Mùa vàng trên Bản Tèn” (15/10/2026), ảnh Hoàng Nguyên/TTXVN.
+- Chuyên trang quảng bá du lịch nông thôn – Cục Du lịch Quốc gia Việt Nam: bài “Thái Nguyên: Sắc vàng thơ mộng trên Bản Tèn mờ sương”.
+- Báo Thái Nguyên: bài “Đưa vào sử dụng đường đi dạo trên Bản Tèn”.
 
-## Lưu ý
-Đây là bản mẫu giao diện hoạt động, chưa phải bộ dữ liệu khảo sát đã xác minh. Ảnh tư liệu được thay bằng ảnh có chú thích Bản Tèn từ Cổng thông tin du lịch Thái Nguyên và Báo Thái Nguyên. Cần xin phép chủ sở hữu ảnh trước khi sử dụng chính thức; ảnh món ăn và các tư liệu tự khảo sát vẫn cần nhóm bổ sung. Bản đồ mở trang tìm kiếm Google Maps theo tên địa danh; cần xác minh ghim vị trí chính xác trước khi dùng chính thức.
+Ảnh đang được nhúng từ nguồn xuất bản, không được đóng gói trong ZIP. Khi sử dụng công khai, hãy kiểm tra điều kiện bản quyền/cho phép sử dụng của từng nguồn và giữ nguyên chú thích ảnh. Nội dung văn hóa và ẩm thực được viết thận trọng; cần phỏng vấn/xác minh với người dân để bổ sung phong tục, món ăn cụ thể. Không tự nhận ảnh minh họa là ảnh chụp tại Bản Tèn.
