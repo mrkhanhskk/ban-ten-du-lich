@@ -21,12 +21,16 @@
 - Nút “Tải mã QR (PNG)” tải ảnh QR nội bộ. Cần quét thử trên điện thoại trước khi in.
 
 ## Ảnh và ghi nguồn
-Ảnh hiển thị trên website là ảnh tư liệu được ghi nhận về Bản Tèn từ:
-- Báo Tin tức/TTXVN: bài “Thái Nguyên: Mùa vàng trên Bản Tèn” (15/10/2026), ảnh Hoàng Nguyên/TTXVN.
-- Chuyên trang quảng bá du lịch nông thôn – Cục Du lịch Quốc gia Việt Nam: bài “Thái Nguyên: Sắc vàng thơ mộng trên Bản Tèn mờ sương”.
-- Báo Thái Nguyên: bài “Đưa vào sử dụng đường đi dạo trên Bản Tèn”.
+Ảnh trên website là ảnh tư liệu về Bản Tèn, nhúng trực tiếp từ Việt Giải Trí (không đóng gói trong ZIP):
+- Bài “Thái Nguyên: Mùa vàng trên Bản Tèn” (16/10/2026), ảnh Hoàng Nguyên/TTXVN: hero, ruộng bậc thang, dải ảnh giữa trang, thư viện (thu hoạch, ruộng bậc thang).
+- Bài “Có một Bản Tèn đang đợi du khách” (17/10/2026), Phương Điền – Trần Hưng: khèn Mông, bữa ăn, đường lên bản, thư viện.
+- Số liệu nhanh (30 km, ~10 ha, 100+ hộ Mông) lấy từ hai bài trên.
 
-Ảnh đang được nhúng từ nguồn xuất bản, không được đóng gói trong ZIP. Khi sử dụng công khai, hãy kiểm tra điều kiện bản quyền/cho phép sử dụng của từng nguồn và giữ nguyên chú thích ảnh. Nội dung văn hóa và ẩm thực được viết thận trọng; cần phỏng vấn/xác minh với người dân để bổ sung phong tục, món ăn cụ thể. Không tự nhận ảnh minh họa là ảnh chụp tại Bản Tèn.
+Lưu ý:
+- Ảnh dùng `referrerpolicy="no-referrer"` để hạn chế bị chặn hotlink; nếu nguồn đổi/xóa ảnh thì ảnh đó tự ẩn (thư viện) thay vì hiện sai ảnh.
+- Hãy xin phép/kiểm tra bản quyền trước khi công bố rộng rãi, hoặc tải ảnh về `assets/` rồi đổi đường dẫn nếu được cấp phép.
+- Mô tả ảnh (alt) dựa trên chú thích của bài báo gốc; nên mở trang kiểm tra bằng mắt.
+- Nội dung văn hóa và ẩm thực cần phỏng vấn/xác minh với người dân. Không tự nhận ảnh minh họa là ảnh chụp tại Bản Tèn.
 
-
-Ảnh tư liệu Bản Tèn: Chuyên trang quảng bá du lịch nông thôn thuộc Cục Du lịch Quốc gia Việt Nam, bài “Thái Nguyên: Sắc vàng thơ mộng trên Bản Tèn mờ sương”. Cần xin phép/kiểm tra quyền sử dụng trước khi công bố rộng rãi.
+## Còn thiếu
+- `assets/ma-qr-ban-ten.png` chưa có trong bản bạn gửi. Hãy tạo QR cho https://mrkhanhskk.github.io/ban-ten-du-lich/ và đặt vào thư mục `assets/`.
