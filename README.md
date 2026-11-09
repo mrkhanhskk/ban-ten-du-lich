@@ -21,10 +21,12 @@
 - Nút “Tải mã QR (PNG)” tải ảnh QR. Cần quét thử trên điện thoại trước khi in.
 
 ## Ảnh và ghi nguồn
-Website dùng 4 ảnh từ bài “Thái Nguyên: Sắc vàng thơ mộng trên Bản Tèn mờ sương” (Chuyên trang quảng bá du lịch nông thôn – Cục Du lịch Quốc gia Việt Nam), ghi đúng theo chú thích gốc:
-- ban-ten-1: Toàn cảnh Bản Tèn – Ngọc Linh (hero, dải ảnh, thư viện)
-- ban-ten-2: Thu hoạch sâm Bố Chính – Nam Đan (mục Ẩm thực, thư viện)
-- ban-ten-3: Du khách check-in – Nam Đan (mục Văn hóa, thư viện)
-- ban-ten-4: Không gian Bản Tèn – Ngọc Linh (mục Ruộng bậc thang, thư viện)
+Ảnh hiển thị trên website là ảnh tư liệu được ghi nhận về Bản Tèn từ:
+- Báo Tin tức/TTXVN: bài “Thái Nguyên: Mùa vàng trên Bản Tèn” (15/10/2026), ảnh Hoàng Nguyên/TTXVN.
+- Chuyên trang quảng bá du lịch nông thôn – Cục Du lịch Quốc gia Việt Nam: bài “Thái Nguyên: Sắc vàng thơ mộng trên Bản Tèn mờ sương”.
+- Báo Thái Nguyên: bài “Đưa vào sử dụng đường đi dạo trên Bản Tèn”.
 
-Ảnh được nhúng từ nguồn xuất bản, không đóng gói trong ZIP. Cần xin phép/kiểm tra quyền sử dụng trước khi công bố rộng rãi và giữ nguyên ghi công. Nên bổ sung ảnh tự chụp (người dân, trang phục, món ăn) sau khi được người dân đồng ý.
+Ảnh đang được nhúng từ nguồn xuất bản, không được đóng gói trong ZIP. Khi sử dụng công khai, hãy kiểm tra điều kiện bản quyền/cho phép sử dụng của từng nguồn và giữ nguyên chú thích ảnh. Nội dung văn hóa và ẩm thực được viết thận trọng; cần phỏng vấn/xác minh với người dân để bổ sung phong tục, món ăn cụ thể. Không tự nhận ảnh minh họa là ảnh chụp tại Bản Tèn.
+
+
+Ảnh tư liệu Bản Tèn: Chuyên trang quảng bá du lịch nông thôn thuộc Cục Du lịch Quốc gia Việt Nam, bài “Thái Nguyên: Sắc vàng thơ mộng trên Bản Tèn mờ sương”. Cần xin phép/kiểm tra quyền sử dụng trước khi công bố rộng rãi.
