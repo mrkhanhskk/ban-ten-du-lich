@@ -17,8 +17,8 @@
 
 ## Bản đồ và mã QR
 - Google Maps dùng truy vấn địa danh “Bản Tèn, Văn Lăng, Thái Nguyên”; cần kiểm tra điểm ghim thực tế và điều chỉnh nếu Google Maps trả nhiều kết quả.
-- QR được tạo theo URL GitHub Pages trong `script.js`. Nếu đổi tên tài khoản/repository hoặc domain, sửa biến `siteUrl`.
-- Nút “Tải mã QR (PNG)” tải ảnh QR. Cần quét thử trên điện thoại trước khi in.
+- QR PNG được đóng gói tại `assets/ma-qr-ban-ten.png`, không phụ thuộc dịch vụ QR bên ngoài. Nếu đổi URL website, cần tạo lại ảnh QR này trước khi công bố.
+- Nút “Tải mã QR (PNG)” tải ảnh QR nội bộ. Cần quét thử trên điện thoại trước khi in.
 
 ## Ảnh và ghi nguồn
 Ảnh hiển thị trên website là ảnh tư liệu được ghi nhận về Bản Tèn từ:
