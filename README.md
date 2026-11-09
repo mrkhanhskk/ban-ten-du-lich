@@ -18,8 +18,7 @@
 ## Tạo mã QR
 1. Mở website đã xuất bản.
 2. Cuộn xuống phần “Một lần quét, mở ra hành trình”.
-3. Dán URL GitHub Pages vào ô “Địa chỉ website đã xuất bản”.
-4. Nhấn “Tạo mã QR”.
+3. Mã QR được tạo tự động theo đường dẫn website đã cài sẵn ở cuối trang. Có thể cập nhật URL nếu thay đổi địa chỉ và nhấn “Cập nhật mã QR”.
 5. Quét thử bằng ít nhất hai điện thoại/trình quét khác nhau trước khi in.
 6. Có thể chụp màn hình mã QR hoặc dùng công cụ tạo QR để tải PNG/SVG chất lượng cao. Không thay đổi URL sau khi đã in mã.
 
@@ -32,4 +31,4 @@
 - Kiểm tra website trên điện thoại, tốc độ tải và mọi liên kết trước khi in QR.
 
 ## Lưu ý
-Đây là bản mẫu giao diện hoạt động, chưa phải bộ dữ liệu khảo sát đã xác minh. Ảnh nền hiện lấy từ kho ảnh trực tuyến làm minh họa, không khẳng định là ảnh chụp Bản Tèn. Bản đồ mở trang tìm kiếm Google Maps theo tên địa danh; cần xác minh ghim vị trí chính xác trước khi dùng chính thức.
+Đây là bản mẫu giao diện hoạt động, chưa phải bộ dữ liệu khảo sát đã xác minh. Ảnh tư liệu được thay bằng ảnh có chú thích Bản Tèn từ Cổng thông tin du lịch Thái Nguyên và Báo Thái Nguyên. Cần xin phép chủ sở hữu ảnh trước khi sử dụng chính thức; ảnh món ăn và các tư liệu tự khảo sát vẫn cần nhóm bổ sung. Bản đồ mở trang tìm kiếm Google Maps theo tên địa danh; cần xác minh ghim vị trí chính xác trước khi dùng chính thức.
